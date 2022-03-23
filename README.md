@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Visit site](https://raazkatwal.github.i/statscard.github.io)
+- Live Site URL: [Visit site](https://raazkatwal.github.io/statscard.github.io)
 
 ## My process
 
